@@ -1,0 +1,1 @@
+Inregistrarea reprezinta un interviu intre 2 persoane: intervievatul si intervievatorul.
